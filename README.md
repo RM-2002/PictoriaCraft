@@ -1,5 +1,9 @@
 # PictoriaCraft - AI Image Generation Website
 
+![image](https://github.com/RM-2002/PictoriaCraft/assets/89720737/98e130f9-a8ba-4a0c-84d4-34f9f0720329)
+
+![image](https://github.com/RM-2002/PictoriaCraft/assets/89720737/c2ea0ab5-cc8c-473d-9541-cda5d20264e0)
+
 ## Overview
 
 PictoriaCraft is an AI-powered image generation website built using the MERN stack. Leveraging OpenAI's DALL-E model, it transforms text descriptions into stunning visual artworks. Users can create and share these AI-generated images with the community, fostering creativity and collaboration.
