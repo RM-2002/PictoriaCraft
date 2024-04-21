@@ -34,7 +34,7 @@ PictoriaCraft is an AI-powered image generation website built using the MERN sta
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/PictoriaCraft.git
+git clone https://github.com/RM-2002/PictoriaCraft.git
 
 cd PictoriaCraft
 
